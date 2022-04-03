@@ -86,3 +86,17 @@ body {
 {
     text-align: center;
 }
+.header-text
+{
+    background-color: #0000008c;
+    background-image: url("../assets/header-esport.jpg");
+    background-position: center;
+}
+.header-text .content
+{
+    background-color: #0000008c;
+}
+#content
+{
+    
+}
