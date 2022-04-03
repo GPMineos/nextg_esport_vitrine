@@ -11,6 +11,8 @@
 **/
 .navbar {
     transition: all 0.4s;
+    padding-right: 12.5%;
+    padding-left: 12.5%;
 }
 
 .navbar .nav-link {
@@ -99,4 +101,12 @@ body {
 #content
 {
     
+}
+.card
+{
+    width: 100% !important;
+}
+.icon:hover
+{
+    color: rgb(0, 0, 0);
 }
