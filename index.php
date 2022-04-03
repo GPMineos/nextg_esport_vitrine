@@ -58,7 +58,7 @@
     ###
     -->
     <div class="container-fluid">
-        <div class="row pt-4 text-white">
+        <div class="row pt-4 text-white justify-content-center">
             <!--
             ###
             ### Header text
@@ -80,7 +80,7 @@
             ### Content that contain some new/actuality
             ###
             -->
-                <section class="col-lg-9 mt-5">
+                <section class="col-md-9 mt-5">
                     <p class="lead">Nous sommes heureux de vous annoncer l'ouverture de notre site internet et par la même occasion l'oganisation de notre premier <strong>tournoi</strong> en présentiel.<br>
                         Nous esperons que vous allez être nombreux à participer à notre compétition qui se déroulera sur les jeux suivants :<br />
                     <ul>
@@ -127,7 +127,7 @@
                 ### Right pannel
                 ###
                 -->
-                <section class="col-lg-3 mt-5 d-flex flex-column" style="min-width:200px">
+                <section class="col-sm mt-5 d-flex flex-column">
                     <h4>Nos evenements à venir</h4>
                     <!-- Card that represent incoming events-->
                     <div class="card text-black p-2">
