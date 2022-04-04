@@ -106,7 +106,15 @@ body {
 {
     width: 100% !important;
 }
+.small
+{
+    max-width: 300px;
+}
 .icon:hover
 {
     color: rgb(0, 0, 0);
+}
+.event-content
+{
+    background-color: transparent;
 }

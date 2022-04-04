@@ -74,22 +74,62 @@
                     </p>
                 </div>
             </header>
-            <section class="row col-lg-12" style="padding-left: 12.5%; padding-right: 12.5%;">
-                <!--
-                ###
-                ### Content that contain some new/actuality
-                ###
-                -->
-                <section class="col-md-9 mt-5">
-
-                </section>
-                <!--
-                ###
-                ### Right pannel
-                ###
-                -->
-                <section class="col-sm mt-5 d-flex flex-column">
-
+            <!--
+            ###
+            ### Content that contain event informations
+            ###
+            -->
+            <section class="row col-lg-12 pt-5 pb-5 event-content text-white" style="padding-left: 12.5%; padding-right: 12.5%;">
+                <h2>Lorem ipsum Lorem ipsum </h2>
+                <p>Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+                </p>
+                <section class="col-md-12 mt-5 d-flex flex-row justify-content-between text-dark">
+                    <div class="card small text-black p-2">
+                        <div class="card-body">
+                            <h5 class="card-title">3500€ de cash prize !</h5>
+                            <p class="card-text">Notre association à réalisé beaucoup d'effort afin de vous fournir de belle dotation !</p>
+                            <ul>
+                                <li>Plus de 3500€ de cash prize !</li>
+                                <li>Plus de 700€ de lot à remporter</li>
+                                <li>Des stand avec differente activité, VR, Simulation</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card small text-black p-2">
+                        <div class="card-body">
+                            <h5 class="card-title">Plus de 700€ de lots !</h5>
+                            <p class="card-text">NextG - Lan #1, venez participez à notre Lan</p>
+                            <ul>
+                                <li>Plus de 3500€ de cash prize !</li>
+                                <li>Plus de 700€ de lot à remporter</li>
+                                <li>Des stand avec differente activité, VR, Simulation</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card small text-black p-2">
+                        <div class="card-body">
+                            <h5 class="card-title">NextG Lan - 18/09/2022</h5>
+                            <p class="card-text">NextG - Lan #1, venez participez à notre Lan</p>
+                            <ul>
+                                <li>Plus de 3500€ de cash prize !</li>
+                                <li>Plus de 700€ de lot à remporter</li>
+                                <li>Des stand avec differente activité, VR, Simulation</li>
+                            </ul>
+                        </div>
+                    </div>
                 </section>
             </section>
         </div>
