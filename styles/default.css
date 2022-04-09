@@ -102,9 +102,15 @@ body {
 {
     
 }
-.card
+.card-game
 {
-    width: 100% !important;
+    min-width: 300px;
+    max-width: 300px;
+}
+.card-event
+{
+    width: 100%;
+    min-width: 300px;
 }
 .small
 {
