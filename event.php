@@ -120,7 +120,7 @@
                     ###
                     -->
                     <div class="row mt-4 mb-4">
-                        <div class="col-sm-12 col-md-12 col-lg-4 mt-lg-0 mt-sm-3 d-flex align-items-stretch">
+                        <div class="col-sm-12 col-md-12 col-lg-4 mt-lg-0 mt-3 d-flex align-items-stretch">
                             <div class="card bg-dark">
                                 <img class="card-img-top" src="./assets/cs-go.png" alt="csgo">
                                 <div class="card-body">
@@ -131,7 +131,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-12 col-lg-4 mt-lg-0 mt-sm-3 d-flex align-items-stretch">
+                        <div class="col-sm-12 col-md-12 col-lg-4 mt-lg-0 mt-3 d-flex align-items-stretch">
                             <div class="card bg-dark">
                                 <img class="card-img-top" src="./assets/rocket_league.jpg" alt="rocket league">
                                 <div class="card-body">
@@ -142,7 +142,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-12 col-lg-4 mt-lg-0 mt-sm-3 d-flex align-items-stretch">
+                        <div class="col-sm-12 col-md-12 col-lg-4 mt-lg-0 mt-3 d-flex align-items-stretch">
                             <div class="card bg-dark">
                                 <img class="card-img-top" src="./assets/lol-logo.png" alt="league of legend">
                                 <div class="card-body">
@@ -172,7 +172,7 @@
                     ###
                     -->
                     <div class="row mt-4 mb-4">
-                        <div class="col-sm-12 col-lg-4 mt-lg-0 mt-sm-3">
+                        <div class="col-sm-12 col-lg-4 mt-lg-0 mt-3">
                             <div class="card bg-dark">
                                 <div class="card-body">
                                     <h3 class="card-title">3500€ de cash prize !</h3>
@@ -182,7 +182,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-lg-4 mt-lg-0 mt-sm-3">
+                        <div class="col-sm-12 col-lg-4 mt-lg-0 mt-3">
                             <div class="card bg-dark">
                                 <div class="card-body">
                                     <h3 class="card-title">Plus de 700€ de lots !</h3>
@@ -192,7 +192,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-lg-4 mt-lg-0 mt-sm-3">
+                        <div class="col-sm-12 col-lg-4 mt-lg-0 mt-3">
                             <div class="card bg-dark">
                                 <div class="card-body">
                                     <h3 class="card-title">Retrouvez pleins d'activités de GEEK !</h3>
