@@ -8,9 +8,42 @@
 * ==========================================
 *
 */
+
+
+/* 
+Body style 
+*/
+
+body {
+    min-height: 110vh;
+    background-color: #222222;
+    background-image: linear-gradient(90deg, rgba(18, 87, 105, 1) 0%, rgba(39, 182, 140, 1) 100%);
+    ;
+    background-repeat: no-repeat;
+    object-fit: contain;
+    background-position: top center;
+}
+
+
+/* 
+Header style 
+*/
+
+.header-text {
+    background-color: #0000008c;
+    background-image: url("../assets/header-esport.jpg");
+    background-position: center;
+}
+
+.header-text .content {
+    background-color: #0000008c;
+}
+
+
 /**
 # Navbar style
 **/
+
 .navbar {
     transition: all 0.4s;
     padding-right: 12.5%;
@@ -32,7 +65,10 @@
 }
 
 
-/* Change navbar styling on scroll */
+/* 
+Change navbar styling on scroll 
+*/
+
 .navbar.active {
     background: rgba(71, 71, 71, 0.842);
     box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.1);
@@ -53,95 +89,40 @@
 }
 
 
-/* Change navbar styling on small viewports */
-@media (max-width: 960px) {
+/*
+* ==========================================
+* MediaQuery
+* ==========================================
+*/
+
+@media screen and (max-width:768px) {
+    .card-event {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .card-event {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:960px) {
+    .icon:hover {
+        color: rgb(87, 187, 187);
+    }
+    /*Nav bar styling*/
     .navbar {
         background: rgb(41, 41, 41);
     }
-
-    .navbar .navbar-brand, .navbar .nav-link {
+    .navbar .navbar-brand,
+    .navbar .nav-link {
         color: rgb(255, 255, 255);
     }
 }
 
-
-
-/*
-*
-* ==========================================
-* To Fix
-* ==========================================
-*
-*/
-.text-small {
-    font-size: 0.9rem !important;
-}
-
-
-body {
-    min-height: 110vh;
-    background-color: #222222;
-    background-image: linear-gradient(90deg, rgba(18,87,105,1) 0%, rgba(39,182,140,1) 100%);;
-    background-repeat: no-repeat;
-    object-fit: contain;
-    background-position: top center;
-}
-.content
-{
-    text-align: center;
-}
-.header-text
-{
-    background-color: #0000008c;
-    background-image: url("../assets/header-esport.jpg");
-    background-position: center;
-}
-.header-text .content
-{
-    background-color: #0000008c;
-}
-#content
-{
-    
-}
-.card-game
-{
-    min-width: 300px;
-    max-width: 300px;
-}
-.small
-{
-    max-width: 300px;
-}
-.event-content
-{
-    background-color: transparent;
-}
-
-
-@media screen and (max-width:768px) {
-    .card-event
-    {
-        width: 100%;
-    }
-}
-@media screen and (min-width:768px) {
-    .card-event
-    {
-        width: 100%;
-    }
-}
-
-
-@media screen and (max-width:960px) {
-    .icon:hover
-    {
-        color: rgb(87, 187, 187);
-    }
-}
 @media screen and (min-width:960px) {
-    .icon:hover
-    {
+    .icon:hover {
         color: rgb(0, 0, 0);
     }
 }
