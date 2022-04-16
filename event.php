@@ -107,6 +107,63 @@
                     <p>Est labore labore veniam ex proident culpa aliquip qui ut enim. Proident deserunt deserunt et mollit anim nostrud esse esse dolor id ipsum reprehenderit. Ullamco commodo eiusmod anim fugiat. Dolor elit eu irure non anim occaecat excepteur
                         incididunt deserunt dolor ea adipisicing nisi incididunt. Incididunt culpa cupidatat enim irure. Pariatur nisi ex occaecat culpa ullamco aliquip commodo. Ex ullamco elit fugiat amet.</p>
 
+                    <!--
+                    ###
+                    ### Card
+                    ###
+                    -->
+                    <div class="row mt-4 mb-4">
+                        <div class="col-sm-12 col-md-12 col-lg-4 mt-lg-0 mt-sm-3 d-flex align-items-stretch">
+                            <div class="card bg-dark">
+                                <img class="card-img-top" src="./assets/cs-go.png" alt="csgo">
+                                <div class="card-body">
+                                    <h3 class="card-title">Counter-strike</h3>
+                                    <p class="card-text">
+                                        Notre association à réalisé beaucoup d'effort afin de vous fournir de belle dotation ! Plus de 3500€ de cash prize ! Plus de 700€ de lot à remporter Des stand avec differente activité, VR, Simulation
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-4 mt-lg-0 mt-sm-3 d-flex align-items-stretch">
+                            <div class="card bg-dark">
+                                <img class="card-img-top" src="./assets/rocket_league.jpg" alt="rocket league">
+                                <div class="card-body">
+                                    <h3 class="card-title">Rocket league</h3>
+                                    <p class="card-text">
+                                        Notre association à réalisé beaucoup d'effort afin de vous fournir de belle dotation ! Plus de 3500€ de cash prize ! Plus de 700€ de lot à remporter Des stand avec differente activité, VR, Simulation
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-4 mt-lg-0 mt-sm-3 d-flex align-items-stretch">
+                            <div class="card bg-dark">
+                                <img class="card-img-top" src="./assets/lol-logo.png" alt="league of legend">
+                                <div class="card-body">
+                                    <h3 class="card-title">League of legend</h3>
+                                    <p class="card-text">
+                                        Notre association à réalisé beaucoup d'effort afin de vous fournir de belle dotation ! Plus de 3500€ de cash prize ! Plus de 700€ de lot à remporter Des stand avec differente activité, VR, Simulation
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <h4>Et bien plus encore !</h4>
+                    <div class="row">
+                        <p>Qui et voluptate sint laboris. Nostrud Lorem do officia esse officia nisi et laborum elit culpa aute occaecat mollit. Labore consequat eiusmod ipsum dolore est ad voluptate non ut aliqua ut dolor.</p>
+                        <p>Sit magna nulla sint aliqua ut dolor officia sunt dolore nisi duis cillum. Officia sunt anim sint culpa ea eiusmod tempor duis pariatur officia occaecat. Aute officia nulla magna mollit ullamco laborum et laboris cupidatat dolore
+                            mollit cillum. Fugiat culpa ea et aliquip voluptate consequat Lorem voluptate nisi duis anim. Ullamco do exercitation fugiat voluptate dolor. Ipsum dolore laboris mollit incididunt qui mollit laboris ut.</p>
+                        <p>Pariatur reprehenderit eiusmod incididunt incididunt elit voluptate adipisicing do culpa cillum occaecat do. Adipisicing nulla eu amet magna reprehenderit culpa pariatur. Voluptate occaecat officia cillum cupidatat proident consequat
+                            dolore. Nostrud excepteur magna elit pariatur non quis. Tempor commodo consectetur ex culpa officia eiusmod velit commodo voluptate laborum minim quis. Commodo ea sit labore cillum elit ut in reprehenderit cupidatat. Non id
+                            laboris magna cillum fugiat ullamco dolore.</p>
+                        <p>Sit magna nulla sint aliqua ut dolor officia sunt dolore nisi duis cillum. Officia sunt anim sint culpa ea eiusmod tempor duis pariatur officia occaecat. Aute officia nulla magna mollit ullamco laborum et laboris cupidatat dolore
+                            mollit cillum. Fugiat culpa ea et aliquip voluptate consequat Lorem voluptate nisi duis anim. Ullamco do exercitation fugiat voluptate dolor. Ipsum dolore laboris mollit incididunt qui mollit laboris ut.</p>
+                    </div>
+                    <!--
+                    ###
+                    ### Card
+                    ###
+                    -->
                     <div class="row mt-4 mb-4">
                         <div class="col-sm-12 col-lg-4 mt-lg-0 mt-sm-3">
                             <div class="card bg-dark">
@@ -160,29 +217,41 @@
     ###
     -->
     <footer class="bg-dark text-center text-lg-start text-white mt-5">
-        <!-- Newsletter register -->
+        <!-- Grid container -->
         <div class="container p-4 pb-0">
-            <form action="#">
-                <div class="row justify-content-md-center">
-                    <div class="col-auto mb-4 mb-md-0">
-                        <p class="pt-2">
-                            <strong>Inscris-toi à notre newsletter</strong>
-                        </p>
-                    </div>
-                    <div class="col-md-5 col-12 mb-4 mb-md-0">
-                        <div class="form-outline mb-4">
-                            <input type="email" id="form5Example25" placeholder="Votre email" class="form-control" />
-                        </div>
-                    </div>
-                    <div class="col-auto mb-4 mb-md-0">
-                        <button type="submit" class="btn btn-primary mb-4">
-                            Inscription
-                        </button>
+            <div class="d-flex justify-content-center">
+                <div class="col-md-auto">
+                    <div class="row justify-content-md-center text-center">
+                        <ul class="list-unstyled">
+                            <li>Nous contactez : xx.xx.xx.xx.xx</li>
+                            <li>Lyon 690007, 43 rue raulin</li>
+                        </ul>
                     </div>
                 </div>
-            </form>
+            </div>
+            <div class="col-12">
+                <form action="#">
+                    <div class="row justify-content-md-center">
+                        <div class="col-auto mb-4 mb-md-0">
+                            <p class="pt-2">
+                                <strong>Inscris-toi à notre newsletter</strong>
+                            </p>
+                        </div>
+                        <div class="col-md-5 col-12 mb-4 mb-md-0">
+                            <div class="form-outline mb-4">
+                                <input type="email" id="form5Example25" placeholder="Votre email" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="col-auto mb-4 mb-md-0">
+                            <button type="submit" class="btn btn-primary mb-4">
+                            Inscription
+                        </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
         </div>
-        <!-- Newsletter register -->
+        <!-- Grid container -->
 
         <!-- Copyright -->
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
