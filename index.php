@@ -32,9 +32,9 @@
     ###
     -->
     <header class="header">
-        <nav class="navbar navbar-expand-lg fixed-top">
+        <nav class="navbar navbar-expand-lg fixed-top"  style="padding-left: 6%; padding-right: 6%;">
 
-            <a href="#" style="padding: 0px;" class="navbar-brand text-uppercase font-weight-bold"><img height="32px"
+            <a href="#" style="padding: 0px;" class="navbar-brand text-uppercase font-weight-bold"><img alt="logo" height="32px"
                 src="./assets/logo-1024x1024.png" /></a>
             <div class="text-light"></div>
             <button type="button" data-toggle="collapse" data-bs-toggle="collapse"
@@ -63,7 +63,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" data-bs-html="true" href="#">
-                            <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                            <svg class="icon" alt="facebook" title="facebook" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                                 fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
                                 <title>Facebook</title>
                                 <path
@@ -72,7 +72,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24"
+                        <a class="nav-link" href="#"><svg alt="twitter" title="twitter" class="icon" xmlns="http://www.w3.org/2000/svg" width="24"
                                 height="24" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
                                 <title>Twitter</title>
                                 <path
@@ -108,7 +108,7 @@
             ### Content that contain some new/actuality
             ###
             -->
-                <section class="col-lg-9 mt-5">
+                <section class="col-md-12 col-lg-9 mt-5">
                     <h4>Présentation de l’Association France Esports</h4>
                     <p>Dans un contexte français, et international, de professionnalisation et de structuration de la 
                         pratique des sports électroniques, les principaux acteurs de son développement en France 
@@ -119,15 +119,35 @@
                         s’inscrivant dans les valeurs et les principaux fondamentaux de l’Olympisme (Article 1 de ses statuts). 
                         L’association souhaite représenter les intérêts communs du monde amateur, du monde professionnel ainsi que 
                         des agents économiques du secteur des sports électroniques.
-                        <img class="mt-4" src="./assets/fes-pgw-2016-768x432.jpg" width="100%" /></p>
-                    <p></p>
+                    </p>
+                    <img class="mt-4 mb-4" alt="photo-evenements-pgw" title="Photo evenement pgw" src="./assets/fes-pgw-2016-768x432.jpg" width="100%" />
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vestibulum consequat quam, sit amet dapibus 
+                        elit rutrum quis. Curabitur blandit urna dignissim bibendum cursus. Integer id augue lobortis, ultrices nisi eu, 
+                        bibendum leo. Nulla velit justo, elementum nec mattis sit amet, pharetra at libero. Ut non purus at nisi condimentum 
+                        consequat. Pellentesque aliquam posuere justo, vel elementum felis auctor at. Proin cursus sollicitudin orci, 
+                        non hendrerit massa bibendum eu. In sollicitudin nec orci id eleifend. Sed ut commodo ex. Ut aliquet fringilla 
+                        odio in sodales. Ut porta ante eu felis ornare bibendum. In quis sem nec ipsum mattis suscipit. Nunc lacinia tincidunt 
+                        eros, et tristique tellus pharetra in. Quisque ornare, libero nec viverra bibendum, ligula sapien blandit ipsum, cursus 
+                        euismod augue risus id ante.
+                        <br /><br />
+                        In vitae convallis nisi, sit amet sodales 
+                        justo. Suspendisse metus diam, aliquet sit amet 
+                        accumsan vel, commodo ac ligula. Nullam magna ante, commodo at eros eget, maximus ultricies arcu. Ut 
+                        accumsan ligula libero, vehicula commodo nibh ultricies quis. Vestibulum ac orci eu felis sollicitudin varius
+                        nec tincidunt nisi. Aenean dolor nulla, luctus eu urna a, porttitor vestibulum elit. Ut eget turpis imperdiet, 
+                        vulputate ipsum id, suscipit erat. Vivamus vehicula volutpat felis tristique blandit. Sed interdum risus vitae 
+                        commodo rhoncus. Suspendisse consequat eu tellus non laoreet. Aliquam auctor nec justo eget tempor. Fusce tempus dui 
+                        ante, id efficitur eros condimentum a. Fusce ipsum massa, pharetra vel nunc nec, pharetra euismod sem. Nulla tempor augue 
+                        nec dictum pretium. Cras varius sodales est, et vehicula justo imperdiet et.
+                    </p>
                 </section>
                 <!--
                 ###
                 ### Right pannel
                 ###
                 -->
-                <section class="">
+                <section class="col-md-12 col-lg-3 mt-5">
                     <h4>Nos evenements à venir</h4>
                     <!-- Card that represent incoming events-->
                     <div class="card text-black p-2 card-event">
@@ -140,6 +160,19 @@
                                 <li>Des stands pour tester la réalité virtuelle et beaucoup d'autres activités</li>
                             </ul>
                             <a href="event.php" class="btn btn-primary">Visualiser</a>
+                        </div>
+                    </div>
+
+                    <div class="card text-black p-2 card-event mt-4">
+                        <div class="card-body">
+                            <h5 class="card-title">NextG Lan - 12/11/2022</h5>
+                            <p class="card-text">NextG - Lan #2, venez participer à notre Lan</p>
+                            <ul>
+                                <li>Plus de 3500€ de cash prize !</li>
+                                <li>Plus de 700€ de lots à remporter</li>
+                                <li>Des stands pour tester la réalité virtuelle et beaucoup d'autres activités</li>
+                            </ul>
+                            <a href="#" class="btn btn-primary">Visualiser</a>
                         </div>
                     </div>
                 </section>
