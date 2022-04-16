@@ -108,6 +108,7 @@ Change navbar styling on scroll
 }
 
 @media screen and (max-width:960px) {
+    /*Social nav icon*/
     .icon:hover {
         color: rgb(87, 187, 187);
     }
