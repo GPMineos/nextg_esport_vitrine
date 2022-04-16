@@ -97,7 +97,7 @@
             ###
             -->
             <header class="header-text px-0" style="margin-top:10px;">
-                <div class="content py-5">
+                <div class="content text-center py-5">
                     <h1 class="display-4">France Esport</h1>
                     <p class="lead mb-0">France Esports, pour la promotion et le développement des Sports Électroniques</p>
                 </div>
@@ -150,7 +150,7 @@
                 <section class="col-md-12 col-lg-3 mt-5">
                     <h4>Nos evenements à venir</h4>
                     <!-- Card that represent incoming events-->
-                    <div class="card text-black p-2 card-event">
+                    <div class="card p-2 card-event bg-dark">
                         <div class="card-body">
                             <h5 class="card-title">NextG Lan - 18/09/2022</h5>
                             <p class="card-text">NextG - Lan #1, venez participer à notre Lan</p>
@@ -163,7 +163,7 @@
                         </div>
                     </div>
 
-                    <div class="card text-black p-2 card-event mt-4">
+                    <div class="card p-2 card-event mt-4 bg-dark">
                         <div class="card-body">
                             <h5 class="card-title">NextG Lan - 12/11/2022</h5>
                             <p class="card-text">NextG - Lan #2, venez participer à notre Lan</p>
@@ -224,7 +224,7 @@
         <!-- Copyright -->
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
             © 2022 Copyright:
-            <a class="text-light" href="https://nextg-esport.com/">nextg-esport.com</a>
+            <a class="text-light" href="https://nextg-esport.com/">france-esport.com</a>
         </div>
         <!-- Copyright -->
     </footer>
