@@ -17,11 +17,11 @@
     <meta property="og:title" content="France - Esports présentation" />
     <meta property="og:description" content="Evenement le 08/09/2022, Lan sur counter-strike, rocket league, loeague of legend" />
     <meta property="og:image" content="https://nextg-esport-vitrine.herokuapp.com/assets/logo-1024x1024.png" />
-    <meta property="og:url" content="PERMALINK" />
     <meta property="og:site_name" content="France - Esports" />
     <link rel="canonical" href="https://nextg-esport-vitrine.herokuapp.com/" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" />
     <link rel="stylesheet" href="styles/default.css">
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -98,7 +98,9 @@
                 <div class="content text-center py-5">
                     <h1 class="display-2">NextG Lan #1 | CS:GO | ROCKET LEAGUE | VALORANT</h1>
                     <p class="lead mb-0 fs-2">Du 08/09/2022 au 11/09/2022</p>
-                    <a href="#" class="link-info fs-4">Inscivrez-vous !</a>
+                    <button type="button" class="btn btn-outline-info fs-6 mt-2">
+                        <i class="bi bi-bell"></i> Inscivrez-vous !
+                    </button>
                 </div>
             </header>
             <section class="row" style="padding-left: 5%; padding-right: 5%;">
@@ -203,7 +205,11 @@
                             </div>
                         </div>
                     </div>
-
+                    <div class="row d-flex justify-content-center my-4">
+                        <button type="button" class="btn btn-outline-info fs-6 mt-2">
+                            <i class="bi bi-bell"></i> Inscivrez-vous !
+                        </button>
+                    </div>
                     <div class="row">
                         <p>Qui et voluptate sint laboris. Nostrud Lorem do officia esse officia nisi et laborum elit culpa aute occaecat mollit. Labore consequat eiusmod ipsum dolore est ad voluptate non ut aliqua ut dolor.</p>
                         <p>Sit magna nulla sint aliqua ut dolor officia sunt dolore nisi duis cillum. Officia sunt anim sint culpa ea eiusmod tempor duis pariatur officia occaecat. Aute officia nulla magna mollit ullamco laborum et laboris cupidatat dolore
@@ -214,6 +220,11 @@
                         <p>Sit magna nulla sint aliqua ut dolor officia sunt dolore nisi duis cillum. Officia sunt anim sint culpa ea eiusmod tempor duis pariatur officia occaecat. Aute officia nulla magna mollit ullamco laborum et laboris cupidatat dolore
                             mollit cillum. Fugiat culpa ea et aliquip voluptate consequat Lorem voluptate nisi duis anim. Ullamco do exercitation fugiat voluptate dolor. Ipsum dolore laboris mollit incididunt qui mollit laboris ut.</p>
 
+                    </div>
+                    <div class="row d-flex justify-content-center my-4">
+                        <button type="button" class="btn btn-outline-info fs-6 mt-2">
+                            <i class="bi bi-bell"></i> Inscivrez-vous !
+                        </button>
                     </div>
                 </section>
         </div>

@@ -17,7 +17,6 @@
     <meta property="og:title" content="France - Esports présentation" />
     <meta property="og:description" content="Suivez l'actualité de l'esport Français, accèder à nos événements passé et futur" />
     <meta property="og:image" content="https://nextg-esport-vitrine.herokuapp.com/assets/logo-1024x1024.png" />
-    <meta property="og:url" content="PERMALINK" />
     <meta property="og:site_name" content="France - Esports" />
     <link rel="canonical" href="https://nextg-esport-vitrine.herokuapp.com/" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
